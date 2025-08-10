@@ -1,5 +1,5 @@
 Hi there, I'm Nithin 👋
-💻 Passionate Developer | 📚 Lifelong Learner | 🚀 Tech Enthusiast
+💻 Passionate Developer | 🚀 Tech Enthusiast
 
 I love building projects, solving problems, and exploring new technologies.
 Currently learning, experimenting, and sharing my journey here on GitHub.
